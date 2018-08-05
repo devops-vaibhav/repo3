@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="11334" started-at="2018-08-05T03:20:17Z" finished-at="2018-08-05T03:20:29Z">
+    <groups>
+    </groups>
+    <test name="WebDriver" duration-ms="11334" started-at="2018-08-05T03:20:17Z" finished-at="2018-08-05T03:20:29Z">
+      <class name="TestNG.addressbook">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="launch" is-config="true" duration-ms="7178" started-at="2018-08-05T03:20:17Z" finished-at="2018-08-05T03:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verfiylogin()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="verfiylogin" duration-ms="2038" started-at="2018-08-05T03:20:25Z" finished-at="2018-08-05T03:20:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiylogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addressbook@3ffc5af1]" name="close" is-config="true" duration-ms="2097" started-at="2018-08-05T03:20:27Z" finished-at="2018-08-05T03:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.addressbook -->
+    </test> <!-- WebDriver -->
+  </suite> <!-- Suite1 -->
+</testng-results>
